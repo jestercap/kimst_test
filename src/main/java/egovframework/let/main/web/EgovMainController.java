@@ -52,7 +52,7 @@ public class EgovMainController {
 	}
 
 	/**
-	 * 템플릿 메인 페이지 조회12312313123
+	 * 템플릿 메인 페이지 조회
 	 * @return 메인페이지 정보 Map [key : 항목명]
 	 *
 	 * @param request
