@@ -90,6 +90,4 @@ public class EgovMainController {
 
 		return "main/EgovMainView";
 	}
-
-	/*추가 해봄*/
 }
